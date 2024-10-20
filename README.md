@@ -1,4 +1,4 @@
-# Image Classification using Convolutional Neural Networks
+# Image Classification using Convolutional Neural Networks created by Ashish Kumar
 This project aims to classify the images in the given dataset as cats or dogs using convolutional neural networks(CNN)
 
 ### Approach and pipeline:
